@@ -1,2 +1,7 @@
 # Analysing-Pharmaceutical-Sales-Data
-Project
+
+Practice project from roadmap.sh
+
+Link: https://roadmap.sh/projects/pharmaceutical-sales-data
+
+Instructions: Open .ipynb file in Jupyter Notebook and load in the .csv dataset from the link provided
